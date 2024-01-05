@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin Luminar",
+      "email": "admin@gmail.com",
+      "active": 1,
+      "password": "admin"
+    },
+    {
+      "id": "4",
+      "name": "CLUB B",
+      "email": "club@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "5",
+      "name": "Pranav",
+      "email": "pranav222@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "9",
+      "name": "fara",
+      "email": "fara@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "44",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "22",
+      "name": "das",
+      "email": "das@gmail.com",
+      "active": "0"
+    }
+  ]
+}
